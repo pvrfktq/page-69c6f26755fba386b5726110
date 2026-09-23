@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b12e7d06d714c7caf42598f7",
+  "owner": "pvrfktq",
+  "repo": "page-69c6f26755fba386b5726110",
+  "title": "速油麦",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "69c6f26755fba386b5726110",
+      "a": "速油麦",
+      "b": "机场官网线路发布页",
+      "entity": "速油麦",
+      "brand": "速油麦",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0e11f76cd6f2e29c5b1d7c0c2e05d3b14bbea11eda0d45e1deaf09ab0e965090",
+      "content": {
+        "primary_entity": "速油麦",
+        "keyword1": "速油麦",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，订阅配置以对应文档为准。",
+          "AI_CLIENTS_TITLE": "客户端与设备适配",
+          "AI_CLOSING_TEXT": "先确认自己的设备数量和月流量，再选对应版本并导入订阅。",
+          "AI_CLOSING_TITLE": "速油麦套餐与客户端搭配使用",
+          "AI_DESCRIPTION": "，围绕设备数量、月流量与订阅周期提供基础版、旗舰版和团队版三档选择。基础版适合三台以内设备、每月一百GB的轻度使用；旗舰版面向五台设备、三百GB流量并需要流媒体与游戏加速的用户；团队版支持二十台设备与一千GB流量，便于小型团队统一配置。选择时先核对设备数与流量档位，再按客户端文档导入订阅即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备，旗舰版5台，团队版20台。超出会无法同时在线，建议按实际设备数量选择，或升级到更高一档。",
+          "AI_FAQ_ANSWER_2": "月付和年付都可选。基础版年付¥150/年，旗舰版年付¥350/年，团队版年付¥850/年，长期使用年付折算下来每月更低。",
+          "AI_FAQ_ANSWER_3": "旗舰版提供IPLC专线游戏加速优化和全节点原生流媒体解锁，团队版有VIP专属高带宽节点，具体线路速度随网络环境变化。",
+          "AI_FAQ_ANSWER_4": "在所选客户端文档中找到订阅导入栏目，粘贴购买后获得的订阅链接，更新节点后选择线路即可使用。不同客户端界面略有差异。",
+          "AI_FAQ_ANSWER_5": "套餐周期结束后相应权益暂停，续费同一版本即可继续使用。更换版本时建议先确认新版本的设备数和流量是否满足需求。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "速油麦套餐最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "月付和年付在价格上有什么区别？",
+          "AI_FAQ_QUESTION_3": "旗舰版和团队版在流媒体与游戏加速上有什么不同？",
+          "AI_FAQ_QUESTION_4": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_5": "套餐到期后如何续费或更换版本？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量档位和订阅周期三个角度快速定位合适版本。",
+          "AI_FEATURES_TITLE": "按需求选版本",
+          "AI_FEATURE_TEXT_1": "单人三台设备以内、月流量约100GB选基础版，年付¥150。",
+          "AI_FEATURE_TEXT_2": "需要流媒体解锁和游戏加速选旗舰版，五台设备、300GB流量。",
+          "AI_FEATURE_TEXT_3": "团队二十台设备、1000GB流量及定制路由需求选团队版。",
+          "AI_FEATURE_TITLE_1": "设备与流量匹配",
+          "AI_FEATURE_TITLE_2": "流媒体与加速",
+          "AI_FEATURE_TITLE_3": "团队与定制",
+          "AI_GUIDE_INTRO": "按设备确认版本、查看适配要求、导入订阅三步完成配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "速油麦提供基础版、旗舰版与团队版三档海外加速套餐，覆盖不同设备数量与月流量需求。配合各平台客户端导入订阅，可按设备数和流量档位快速选定版本。",
+          "AI_HERO_SUBTITLE": "按设备与流量选择加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖1至20台设备",
+          "AI_HIGHLIGHT_2": "月付年付可选，年付更省",
+          "AI_HIGHLIGHT_3": "旗舰版含IPLC专线游戏加速",
+          "AI_PLANS_INTRO": "先从设备数量和月流量确定版本，再比较月付与年付价格。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量，在基础版、旗舰版、团队版中选定一个版本。",
+          "AI_STEP_TEXT_2": "核对所选版本支持的设备数、流量与线路类型，确认满足自己的使用场景。",
+          "AI_STEP_TEXT_3": "在对应客户端文档中找到订阅导入说明，粘贴订阅链接并更新节点。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "速油麦三档套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sanjiaorc.cn",
+    "host": "sanjiaorc.cn"
+  },
+  "file_hashes": {
+    "index.html": "0aa281380dd83a0415fe9a77f170c95f786d5fd177eed1c49d3656b76109dba8",
+    "sitemap.xml": "a2c66b98077da92f365288d321d935bfca315c8012507fe98fd543fe83a8127d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8c503d46c9c79e432de2e66b915117da12c65460eed7cde9a102ed88ad04decc",
+    "robots.txt": "89cc95e47ec469fd5c79c1a3f3f0de72b83af195ff0e61566095f8468ef8203c",
+    "8ba03e5ee04c85d04feb046c29a2ca83.txt": "1d49126f39312935fba09b8307a4d5b36846c46add46e3a771fb7de890232f98"
+  },
+  "revision": "b02ccef35a180feb2ae2715061a1d1af28057134f3e1936b73424641d9e5c161"
+}
